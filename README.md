@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! Welcome to my Githib Profile. I am Anand Saravanan, and I am a technical author @ PluralSight. I have recently graduated from the University of Texas at Dallas. At my core, I am passionate about creating technologies that help humans lead better lives. Throughout this profile, you will find several projects that I have built to apply what I have learned in the classroom to the real world. These projects range from fundamental programming concepts to applying several machine learning models to gain valuable insights for companies. 
+👋 Hello! Welcome to my Githib Profile. I am Anand Saravanan, and I am a technical author @ Pluralsight. I have recently graduated from the University of Texas at Dallas. At my core, I am passionate about creating technologies that help humans lead better lives. Throughout this profile, you will find several projects that I have built to apply what I have learned in the classroom to the real world. These projects range from fundamental programming concepts to applying several machine learning models to gain valuable insights for companies. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-saravanan) 
